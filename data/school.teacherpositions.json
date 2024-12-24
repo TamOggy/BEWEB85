@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "670b2ded6dce2acd384c6c5f"
+  },
+  "code": "TTS",
+  "des": "Giáo viên thực tập sinh tại trường",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Thực tập sinh",
+  "createdAt": {
+    "$date": "2024-10-13T02:18:21.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T02:18:21.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b2f9a6dce2acd384c6c65"
+  },
+  "code": "GVBM",
+  "des": "Giáo viên bộ môn giảng dạy tại trường",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Giáo viên bộ môn",
+  "createdAt": {
+    "$date": "2024-10-13T02:25:30.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T02:25:30.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b30586dce2acd384c6c75"
+  },
+  "code": "TBM",
+  "des": "Trưởng bộ môn giảng dạy tại trường",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Trưởng bộ môn",
+  "createdAt": {
+    "$date": "2024-10-13T02:28:40.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T02:28:40.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b306f6dce2acd384c6c77"
+  },
+  "code": "HT",
+  "des": "Hiệu trưởng tại trường học",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Hiệu trưởng",
+  "createdAt": {
+    "$date": "2024-10-13T02:29:03.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T02:29:03.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b307b6dce2acd384c6c79"
+  },
+  "code": "HP",
+  "des": "Phó hiệu trưởng tại trường học",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Hiệu phó",
+  "createdAt": {
+    "$date": "2024-10-13T02:29:15.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T02:29:15.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670f3fda688dec7f661d70c7"
+  },
+  "code": "CBYT",
+  "des": "Hỗ trợ công việc Y Tế",
+  "isActive": true,
+  "isDeleted": true,
+  "name": "Cán Bộ Y Tế",
+  "createdAt": {
+    "$date": "2024-10-16T04:23:54.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T04:23:54.965Z"
+  },
+  "__v": 0
+}]
